@@ -14,4 +14,4 @@ This project is a complex number calculator implemented in Java, following SOLID
 1. **Clone the Repository**
    Open your terminal and clone the repository using the following command:
    ```sh
-   git clone [https://github.com/yourusername/Complex-number-calculator-in-java-with-SOLID-and-OOP.git](https://github.com/tatevadamyan04/java-complex-calculator.git)
+   git clone https://github.com/tatevadamyan04/java-complex-calculator.git
